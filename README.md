@@ -1,6 +1,8 @@
 # Analizar tweets en tiempo real con Python
 
-Este mini-proyecto permitirá a los estudiantes **obtener** y _analizar datos_ en tiempo real desde Twitter utilizando *Big Data* y **_Python_**. Es una aplicación real y emocionante de cómo los datos se generan y procesan instantáneamente.
+Este mini-proyecto permitirá a los estudiantes **obtener** y _analizar datos_ en tiempo real desde Twitter utilizando *Big Data* y **_Python_**. Es una aplicación real y emocionante de cómo los datos se generan y procesan instantáneamente. 
+
+Este documento también sirve para probar la elaboración de documentos en Github.
 
 ## Ecuaciones
 
